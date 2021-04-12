@@ -1,6 +1,6 @@
 # c1dc
 
-## trip
+## Trip
 
 ### ROI elements
   1. rental income - must
