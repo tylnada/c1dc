@@ -8,7 +8,7 @@ approches and problems statements
 ---
 ## Data issues
 * airbnb
-  1. missing zipcodes
-  2. wait
+* 1. missing zipcodes
+* 2. wait
 
 * zillow
