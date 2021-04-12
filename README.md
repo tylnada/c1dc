@@ -1,12 +1,13 @@
-# c1dc
+# c1dc Trip
+approches and problems statements
 
-## Trip
----
-
-### ROI elements
+## ROI elements
   1. rental income - must
   2. home equity - optional
   3. depreciation - optional
-
-
-###
+---
+## Data issues
+  *airbnb
+  1.missing zipcodes
+  2.
+*zillow
