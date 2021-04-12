@@ -7,8 +7,8 @@ approches and problems statements
   3. depreciation - optional
 ---
 ## Data issues
-* airbnb
+### * **Airbnb**
 1. missing zipcodes
 2. wait
 
-* zillow
+### * **Zillow**
