@@ -15,9 +15,9 @@ approches and problems statements
 
 ## To lists:
 1. Missing data
-  * missing zipcode - pygeocoder
-3. feature selection
-4. feature engineering
+    * missing zipcode - pygeocoder
+2. feature selection
+3. feature engineering
 
 
 #### references:
