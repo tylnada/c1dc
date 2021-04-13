@@ -12,3 +12,13 @@ approches and problems statements
 2. wait
 
 * ### **Zillow**
+
+## To lists:
+1. Missing data
+  * missing zipcode - pygeocoder
+3. feature selection
+4. feature engineering
+
+
+#### references:
+1. https://github.com/shivayogibeeradar/Capital-One-Data-Challenge
