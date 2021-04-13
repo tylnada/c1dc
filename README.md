@@ -22,3 +22,4 @@ approches and problems statements
 
 #### references:
 1. https://github.com/shivayogibeeradar/Capital-One-Data-Challenge
+2. https://github.com/aadishchopra/CapitalOneDataChallenge/blob/master/data_analysis_documentation.pdf
