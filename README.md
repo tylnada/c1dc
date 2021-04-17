@@ -17,20 +17,20 @@ approches and problems statements
 1. Missing data
   * missing zipcode - pygeocoder
 3. Feature Selection:
-  * Unsupervised: not using the target variable (e.g. remove redundant variables)
-    * Correlation
-  * Supervised: using the target variable (e.g. remove irrelevant variables)
-    * Wrapper: Search for well-performing subsets of features.
-      *  RFE
-    * Filter: Select subsets of features based on their relationship with the target.
-      * Statistical Methods
-      * Feature Importance Methods
-    * Intrinsic: Algorithms that perform automatic feature selection during training.
-      * Decision Trees
-      * Lasso
+    * Unsupervised: not using the target variable (e.g. remove redundant variables)
+      * Correlation
+    * Supervised: using the target variable (e.g. remove irrelevant variables)
+      * Wrapper: Search for well-performing subsets of features.
+        *  RFE
+      * Filter: Select subsets of features based on their relationship with the target.
+        * Statistical Methods
+        * Feature Importance Methods
+      * Intrinsic: Algorithms that perform automatic feature selection during training.
+        * Decision Trees
+        * Lasso
 4. Feature engineering
-  * Dimensionality Reduction
-    * PCA 
+    * Dimensionality Reduction
+      * PCA 
 
 
 #### references:
