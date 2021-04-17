@@ -13,7 +13,7 @@ approches and problems statements
 
 * ### **Zillow**
 
-## To lists:
+## Check lists:
 1. Missing data
     * missing zipcode - pygeocoder
 2. Feature Selection:
