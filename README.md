@@ -33,7 +33,7 @@ approches and problems statements
       * PCA 
 
 
-#### references:
+#### References:
 1. https://github.com/shivayogibeeradar/Capital-One-Data-Challenge
 2. https://github.com/aadishchopra/CapitalOneDataChallenge/blob/master/data_analysis_documentation.pdf
 3. https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/
