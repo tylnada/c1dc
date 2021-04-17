@@ -28,9 +28,10 @@ approches and problems statements
       * Intrinsic: Algorithms that perform automatic feature selection during training.
         * Decision Trees
         * Lasso
-4. Feature engineering
-    * Dimensionality Reduction
-      * PCA 
+4. Dimensionality Reduction
+    * PCA 
+5. Feature engineering
+
 
 
 #### References:
