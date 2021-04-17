@@ -15,7 +15,7 @@ approches and problems statements
 
 ## Check lists:
 1. Missing data
-  * missing zipcode - pygeocoder
+    * missing zipcode - pygeocoder
 3. Feature Selection:
     * Unsupervised: not using the target variable (e.g. remove redundant variables)
       * Correlation
